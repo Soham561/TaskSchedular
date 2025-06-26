@@ -12,7 +12,7 @@ import java.util.Arrays;
 
 public class Backend_JDBC extends Frontend implements MouseInputListener {
     private final String userName = "root";
-    private final String pass = "mysql";
+    private final String pass = "your Database pass";
     private final String url = "jdbc:mysql://localhost:3306/schedule_db";
 
     private Statement statement = null;

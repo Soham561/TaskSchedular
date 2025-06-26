@@ -9,7 +9,7 @@ import java.util.Properties;
 public class TimerAlertEmail {
 
     final String senderEmail = "sohamhajare81@gmail.com";
-    final String appPassword = "xlzaurnpnjlxvcjm";
+    final String appPassword = " your passcode";
     final String toEmail = "sohamhajare81@gmail.com";
 
     public void initializeAll() {

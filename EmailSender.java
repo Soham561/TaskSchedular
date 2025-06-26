@@ -9,7 +9,7 @@ import java.util.Properties;
 public class EmailSender {
 
     final String senderEmail = "sohamhajare81@gmail.com";
-    final String appPassword = "xlzaurnpnjlxvcjm"; // ⚠️ Put your App Password here
+    final String appPassword = ""; // ⚠️ Put your App Password here
     final String toEmail = "sohamhajare81@gmail.com";
 
     public void initializeAll(String taskName) {
